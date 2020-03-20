@@ -57,7 +57,7 @@ pen.color('skyblue')
 pen.penup()
 pen.hideturtle()
 pen.goto(0,260)
-pen.write("Player A: 0                    Player B: 0 ",align="center",font=('Monaco',24,"normal"))
+pen.write("Player A: 0               Player B: 0 ",align="center",font=('Monaco',24,"normal"))
 
 
 # Moving the left Paddle using the keyboard
